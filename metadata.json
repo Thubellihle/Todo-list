@@ -1,0 +1,5 @@
+{
+  "name": "Kanban-Style Todo List",
+  "description": "A modern and responsive todo list application with user authentication and a dark mode feature. Manage tasks across 'Todo', 'In Progress', and 'Done' columns with drag-and-drop functionality.",
+  "requestFramePermissions": []
+}
